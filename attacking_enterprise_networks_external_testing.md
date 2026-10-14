@@ -97,7 +97,7 @@ PORT     STATE SERVICE  VERSION
 
 ```
 ┌──(nabla㉿kali)-[~]
-└─$ dig @inlanefreight.local inlanefreight.local axfr
+└─$ dig axfr inlanefreight.local @inlanefreight.local
 
 [SNIP]
 
